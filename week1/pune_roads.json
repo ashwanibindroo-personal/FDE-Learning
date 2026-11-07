@@ -1,0 +1,3757 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2026-11-06T14:45:06Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "way",
+      "id": 22840866,
+      "tags": {
+        "highway": "residential",
+        "name": "Aravind Ranade Path",
+        "name:mr": "अरविंद रानडे पथ",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 22840876,
+      "tags": {
+        "highway": "residential",
+        "name": "Omkareshwar Path",
+        "name:mr": "ॐकारेश्वर पथ"
+      }
+    },
+    {
+      "type": "way",
+      "id": 22840877,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 22840963,
+      "tags": {
+        "alt_name": "Apte Road",
+        "hgv": "no",
+        "highway": "tertiary",
+        "lit": "yes",
+        "maxheight": "3.2",
+        "name": "Apte Path",
+        "name:mr": "आपटे पथ",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 22841173,
+      "tags": {
+        "highway": "tertiary",
+        "lane_markings": "yes",
+        "lanes": "2",
+        "name": "Narsimha Chintaman Kelkar Marg",
+        "name:etymology:wikidata": "Q3633474",
+        "name:mr": "नरसिंह चिंतामण केळकर मार्ग",
+        "oneway": "no",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 22841184,
+      "tags": {
+        "highway": "tertiary",
+        "maxspeed": "40",
+        "name": "Ghole Road",
+        "name:mr": "घोले पथ",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 22841193,
+      "tags": {
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Congress Bhavan Path",
+        "name:mr": "कॉंग्रेस भवन पथ",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 22841195,
+      "tags": {
+        "alt_name": "Balagandharva Bridge",
+        "alt_name:mr": "बालगंधर्व पूल",
+        "highway": "tertiary",
+        "name": "Maharshi Vitthal Ramji Shinde Bridge",
+        "name:etymology:wikidata": "Q7937284",
+        "name:mr": "महर्षी विठ्ठल रामजी शिंदे पूल",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 22841242,
+      "tags": {
+        "highway": "tertiary",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 22972725,
+      "tags": {
+        "highway": "tertiary",
+        "name": "Narsimha Chintaman Kelkar Marg",
+        "name:etymology:wikidata": "Q3633474",
+        "name:mr": "नरसिंह चिंतामण केळकर मार्ग",
+        "oneway": "no",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 23028078,
+      "tags": {
+        "alt_name": "Balagandharva Bridge",
+        "alt_name:mr": "बालगंधर्व पूल",
+        "bridge": "yes",
+        "highway": "tertiary",
+        "layer": "1",
+        "name": "Maharshi Vitthal Ramji Shinde Bridge",
+        "name:etymology:wikidata": "Q7937284",
+        "name:mr": "महर्षी विठ्ठल रामजी शिंदे पूल",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 23028079,
+      "tags": {
+        "alt_name": "Balagandharva Bridge",
+        "alt_name:mr": "बालगंधर्व पूल",
+        "highway": "tertiary",
+        "name": "Maharshi Vitthal Ramji Shinde Bridge",
+        "name:etymology:wikidata": "Q7937284",
+        "name:mr": "महर्षी विठ्ठल रामजी शिंदे पूल",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 53088749,
+      "tags": {
+        "highway": "residential",
+        "name": "Appasaheb Athawale Path",
+        "name:mr": "आप्पासाहेब आठवले पथ"
+      }
+    },
+    {
+      "type": "way",
+      "id": 53089623,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 53090268,
+      "tags": {
+        "highway": "residential",
+        "lane_markings": "yes",
+        "lanes": "2",
+        "name": "Namdeo Raut Path",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "way",
+      "id": 53090697,
+      "tags": {
+        "highway": "tertiary",
+        "name": "Narsimha Chintaman Kelkar Marg",
+        "name:etymology:wikidata": "Q3633474",
+        "name:mr": "नरसिंह चिंतामण केळकर मार्ग",
+        "oneway": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 53744711,
+      "tags": {
+        "highway": "residential",
+        "name": "Rashtrabhasha Bhavan Marg",
+        "name:mr": "राष्ट्रभाषा भवन मार्ग",
+        "oneway": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 53744748,
+      "tags": {
+        "highway": "tertiary",
+        "lane_markings": "no",
+        "name": "T Saheb KK Marg",
+        "name:mr": "अप्पासाहेब भागवत पथ",
+        "oneway": "no",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 53744891,
+      "tags": {
+        "highway": "residential",
+        "name": "Bhau Nalawade Path",
+        "name:mr": "भाऊ नलावडे पथ",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 53759030,
+      "tags": {
+        "alt_name": "Z Bridge",
+        "bicycle": "yes",
+        "bridge": "yes",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "layer": "1",
+        "motor_vehicle": "no",
+        "name": "Kakasaheb Gadgil Bridge",
+        "name:etymology:wikidata": "Q6965275",
+        "name:mr": "काकासाहेब गाडगीळ पूल",
+        "oneway": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 53759031,
+      "tags": {
+        "highway": "tertiary"
+      }
+    },
+    {
+      "type": "way",
+      "id": 53759088,
+      "tags": {
+        "highway": "tertiary"
+      }
+    },
+    {
+      "type": "way",
+      "id": 53759137,
+      "tags": {
+        "highway": "tertiary",
+        "name": "Jagannath Kaniram Kasat Path",
+        "name:mr": "जगन्नाथ कनिराम कासट पथ"
+      }
+    },
+    {
+      "type": "way",
+      "id": 53759174,
+      "tags": {
+        "bridge": "yes",
+        "flood_prone": "yes",
+        "foot": "no",
+        "highway": "tertiary",
+        "horse": "no",
+        "layer": "1",
+        "name": "Baba Bhide Bridge",
+        "name:mr": "बाबा भिडे पूल",
+        "oneway": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 53759184,
+      "tags": {
+        "highway": "residential",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 60993711,
+      "tags": {
+        "highway": "tertiary",
+        "name": "Gopal Ganesh Agarkar Path",
+        "name:etymology:wikidata": "Q55681",
+        "name:mr": "गोपाळ गणेश आगरकर पथ"
+      }
+    },
+    {
+      "type": "way",
+      "id": 69731956,
+      "tags": {
+        "highway": "residential",
+        "name": "Deccan Gymkhana Road",
+        "name:mr": "डेक्कन जिमखाना रस्ता"
+      }
+    },
+    {
+      "type": "way",
+      "id": 69732058,
+      "tags": {
+        "highway": "residential",
+        "name": "Sudhabhau Kelkar Path",
+        "name:mr": "सुधाभाऊ केळकर पथ",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 69732124,
+      "tags": {
+        "highway": "residential",
+        "name": "Lane 3"
+      }
+    },
+    {
+      "type": "way",
+      "id": 69732130,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 106359188,
+      "tags": {
+        "highway": "residential",
+        "name": "Dattatray Dhondiba Thopte Path",
+        "name:mr": "दत्तात्रय धोंडिबा थोपटे पथ",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 106359212,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 106359270,
+      "tags": {
+        "highway": "residential",
+        "name": "G. H. Patil Path",
+        "name:mr": "ग. ह. पाटील पथ"
+      }
+    },
+    {
+      "type": "way",
+      "id": 106359291,
+      "tags": {
+        "highway": "tertiary",
+        "lanes": "2",
+        "name": "Shankarrao Kanitkar Path",
+        "name:mr": "शंकरराव कानिटकर पथ",
+        "parking:both": "street_side",
+        "parking:both:orientation": "parallel",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 106359293,
+      "tags": {
+        "highway": "tertiary",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 106359312,
+      "tags": {
+        "highway": "residential",
+        "name": "Appasaheb Shinde Path",
+        "name:mr": "अप्पासाहेब शिंदे पथ"
+      }
+    },
+    {
+      "type": "way",
+      "id": 106359446,
+      "tags": {
+        "highway": "residential",
+        "name": "Rambhau Palshikar Path",
+        "name:mr": "रामभाऊ पळशीकर पथ"
+      }
+    },
+    {
+      "type": "way",
+      "id": 106359461,
+      "tags": {
+        "highway": "residential",
+        "name": "Bapusaheb Gupte Path",
+        "name:mr": "बापूसाहेब गुप्ते पथ"
+      }
+    },
+    {
+      "type": "way",
+      "id": 106359495,
+      "tags": {
+        "highway": "residential",
+        "name": "Shirole Road"
+      }
+    },
+    {
+      "type": "way",
+      "id": 130356216,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 130356220,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 130356222,
+      "tags": {
+        "highway": "residential",
+        "name": "Shri Ashtabhuja Durgadevi Path",
+        "name:mr": "श्री अष्टभुजा दुर्गादेवी पथ"
+      }
+    },
+    {
+      "type": "way",
+      "id": 132474354,
+      "tags": {
+        "highway": "tertiary",
+        "name": "Chandrashekhar Agashe Road",
+        "name:etymology:wikidata": "Q28101716",
+        "name:mr": "चंद्रशेखर आगाशे रस्ता",
+        "oneway": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 140046965,
+      "tags": {
+        "highway": "residential",
+        "oneway": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 151723530,
+      "tags": {
+        "highway": "residential",
+        "name": "Karandikar Road"
+      }
+    },
+    {
+      "type": "way",
+      "id": 202299530,
+      "tags": {
+        "highway": "residential",
+        "name": "Cafe Goodluck Road",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 202299531,
+      "tags": {
+        "highway": "residential",
+        "name": "D. B. Deodhar Path",
+        "name:mr": "दि. बा. देवधर पथ"
+      }
+    },
+    {
+      "type": "way",
+      "id": 207872394,
+      "tags": {
+        "alt_name": "JM Road",
+        "highway": "primary",
+        "lanes": "3",
+        "lit": "yes",
+        "name": "Jangli Maharaj Path",
+        "name:etymology:wikidata": "Q6153993",
+        "name:mr": "जंगली महाराज पथ",
+        "oneway": "yes",
+        "ref": "SH60",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 209063060,
+      "tags": {
+        "highway": "residential",
+        "name": "Manohar Mahadev More Path",
+        "name:mr": "मनोहर महादेव मोरे पथ"
+      }
+    },
+    {
+      "type": "way",
+      "id": 209063082,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 209063133,
+      "tags": {
+        "highway": "residential",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 209063149,
+      "tags": {
+        "highway": "residential",
+        "name": "Keshav Ramchandra Kanitkar Path",
+        "name:mr": "केशव रामचंद्र कानिटकर पथ"
+      }
+    },
+    {
+      "type": "way",
+      "id": 209063159,
+      "tags": {
+        "highway": "residential",
+        "name": "V. D. Ghate Path",
+        "name:mr": "वि. द. घाटे पथ"
+      }
+    },
+    {
+      "type": "way",
+      "id": 210212219,
+      "tags": {
+        "highway": "residential",
+        "name": "Bhikoba Bhivaji Gajmal Path",
+        "name:mr": "भिकोबा भिवाजी गजमल पथ"
+      }
+    },
+    {
+      "type": "way",
+      "id": 211082524,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 211082530,
+      "tags": {
+        "highway": "residential",
+        "name": "Baburao Bapuji Shelke Path",
+        "name:mr": "बाबुराव बापूजी शेळके पथ"
+      }
+    },
+    {
+      "type": "way",
+      "id": 211082531,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 211082549,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 211082551,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 211082556,
+      "tags": {
+        "highway": "residential",
+        "lit": "no",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 211082557,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 211082559,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 211082570,
+      "tags": {
+        "highway": "residential",
+        "name": "Dadasaheb Joglekar Path",
+        "name:mr": "दादासाहेब जोगळेकर पथ"
+      }
+    },
+    {
+      "type": "way",
+      "id": 211082574,
+      "tags": {
+        "highway": "residential",
+        "name": "Vaman Malhar Joshi Marg",
+        "name:etymology:wikidata": "Q7912915",
+        "name:mr": "वामन मल्हार जोशी मार्ग"
+      }
+    },
+    {
+      "type": "way",
+      "id": 211082579,
+      "tags": {
+        "highway": "residential",
+        "name": "Vasantrao Deshmukh Path",
+        "name:mr": "वसंतराव देशमुख पथ"
+      }
+    },
+    {
+      "type": "way",
+      "id": 215732231,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 215732248,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 215732257,
+      "tags": {
+        "highway": "residential",
+        "name": "Vivek Ghatpande Marg",
+        "name:mr": "विवेक घाटपांडे मार्ग"
+      }
+    },
+    {
+      "type": "way",
+      "id": 215732271,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 215732283,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 215804449,
+      "tags": {
+        "highway": "residential",
+        "name": "Sitaram Laxman Kanase Path",
+        "name:mr": "सीताराम लक्ष्मण कणसे पथ"
+      }
+    },
+    {
+      "type": "way",
+      "id": 216506269,
+      "tags": {
+        "highway": "primary",
+        "name": "Congress Bhavan Path",
+        "name:mr": "कॉंग्रेस भवन पथ",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 216506273,
+      "tags": {
+        "alt_name": "Balagandharva Bridge",
+        "alt_name:mr": "बालगंधर्व पूल",
+        "bridge": "yes",
+        "highway": "tertiary",
+        "layer": "1",
+        "name": "Maharshi Vitthal Ramji Shinde Bridge",
+        "name:etymology:wikidata": "Q7937284",
+        "name:mr": "महर्षी विठ्ठल रामजी शिंदे पूल",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 216506281,
+      "tags": {
+        "direction": "clockwise",
+        "highway": "tertiary",
+        "junction": "roundabout",
+        "name": "Chimaji Appa Peshwe Chowk",
+        "name:etymology:wikidata": "Q5099387",
+        "name:mr": "चिमाजी अप्पा पेशवे चौक",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 216506285,
+      "tags": {
+        "alt_name": "Balagandharva Bridge",
+        "alt_name:mr": "बालगंधर्व पूल",
+        "highway": "tertiary",
+        "name": "Maharshi Vitthal Ramji Shinde Bridge",
+        "name:etymology:wikidata": "Q7937284",
+        "name:mr": "महर्षी विठ्ठल रामजी शिंदे पूल",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 216506290,
+      "tags": {
+        "alt_name": "Balagandharva Bridge",
+        "alt_name:mr": "बालगंधर्व पूल",
+        "highway": "tertiary",
+        "name": "Maharshi Vitthal Ramji Shinde Bridge",
+        "name:etymology:wikidata": "Q7937284",
+        "name:mr": "महर्षी विठ्ठल रामजी शिंदे पूल",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 217384613,
+      "tags": {
+        "highway": "residential",
+        "name": "Baburao Ganpat Virkar Path",
+        "name:mr": "बाबूराव गणपत वीरकर पथ"
+      }
+    },
+    {
+      "type": "way",
+      "id": 217384614,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 217431355,
+      "tags": {
+        "alt_name": "FC Road",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "name": "Gopal Krushna Gokhale Path",
+        "name:etymology:wikidata": "Q313299",
+        "name:mr": "गोपाळ कृष्ण गोखले पथ",
+        "oneway": "yes",
+        "ref": "SH60",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 217431356,
+      "tags": {
+        "alt_name": "FC Road",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "name": "Gopal Krushna Gokhale Path",
+        "name:etymology:wikidata": "Q313299",
+        "name:mr": "गोपाळ कृष्ण गोखले पथ",
+        "oneway": "yes",
+        "ref": "SH60",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 217431357,
+      "tags": {
+        "alt_name": "JM Road",
+        "highway": "primary",
+        "lanes": "4",
+        "name": "Jangli Maharaj Path",
+        "name:etymology:wikidata": "Q6153993",
+        "name:mr": "जंगली महाराज पथ",
+        "oneway": "yes",
+        "ref": "SH60",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 217431358,
+      "tags": {
+        "alt_name": "FC Road",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "name": "Gopal Krushna Gokhale Path",
+        "name:etymology:wikidata": "Q313299",
+        "name:mr": "गोपाळ कृष्ण गोखले पथ",
+        "oneway": "yes",
+        "ref": "SH60",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 217431366,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 217431367,
+      "tags": {
+        "highway": "primary_link",
+        "lanes": "2",
+        "lit": "yes",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 217431369,
+      "tags": {
+        "highway": "footway",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 217431370,
+      "tags": {
+        "highway": "footway",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 217431372,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 217431373,
+      "tags": {
+        "highway": "footway",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 217431375,
+      "tags": {
+        "highway": "footway",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 217431377,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 217431378,
+      "tags": {
+        "highway": "footway",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 217431380,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 217431381,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 217431382,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 217431383,
+      "tags": {
+        "highway": "primary_link",
+        "lanes": "2",
+        "lit": "yes",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 217431384,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 217431385,
+      "tags": {
+        "highway": "footway",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 217431386,
+      "tags": {
+        "highway": "footway",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 217773632,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 217773642,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 217773647,
+      "tags": {
+        "highway": "residential",
+        "name": "Audumbar Ali",
+        "name:mr": "औदुंबर आळी"
+      }
+    },
+    {
+      "type": "way",
+      "id": 218059609,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 218059610,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 218078580,
+      "tags": {
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 218110074,
+      "tags": {
+        "highway": "footway",
+        "name": "Hongkong Lane",
+        "name:mr": "हाँगकाँग लेन",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 218110075,
+      "tags": {
+        "highway": "primary",
+        "name": "Narubhau Limaye Path",
+        "name:mr": "नरुभाऊ लिमये पथ",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 218422388,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 218422389,
+      "tags": {
+        "highway": "residential",
+        "lit": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 218422391,
+      "tags": {
+        "crossing": "marked",
+        "crossing:markings": "yes",
+        "footway": "crossing",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 219798475,
+      "tags": {
+        "alt_name": "T Saheb KK Marg",
+        "highway": "tertiary",
+        "name": "Appasaheb Bhagwat Path",
+        "name:mr": "अप्पासाहेब भागवत पथ"
+      }
+    },
+    {
+      "type": "way",
+      "id": 219798492,
+      "tags": {
+        "direction": "clockwise",
+        "highway": "tertiary",
+        "junction": "roundabout",
+        "lane_markings": "no",
+        "name": "Shinde Paar Chowk",
+        "name:mr": "शिंदे पार चौक",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 227095241,
+      "tags": {
+        "highway": "residential",
+        "name": "Tatyasaheb Karandikar Path",
+        "name:mr": "तात्यासाहेब करंदीकर पथ",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 232879080,
+      "tags": {
+        "highway": "residential",
+        "name": "K. P. Kulkarni Path",
+        "name:mr": "कृ. पां. कुलकर्णी पथ"
+      }
+    },
+    {
+      "type": "way",
+      "id": 239575193,
+      "tags": {
+        "highway": "tertiary",
+        "name": "Ramchandra Shankar Vaze Path",
+        "name:mr": "रामचंद्र शंकर वझे पथ",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 239575195,
+      "tags": {
+        "highway": "residential",
+        "name": "Tatyasaheb Talim Path",
+        "name:mr": "तात्यासाहेब तालीम पथ",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 239575196,
+      "tags": {
+        "highway": "residential",
+        "name": "Wrangler Parajape Path",
+        "name:mr": "रँग्लर परांजपे पथ",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 239575197,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 246580191,
+      "tags": {
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Congress Bhavan Path",
+        "name:mr": "कॉंग्रेस भवन पथ",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 246580193,
+      "tags": {
+        "highway": "tertiary",
+        "maxspeed": "40",
+        "name": "Ghole Road",
+        "name:mr": "घोले पथ",
+        "oneway": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 250116206,
+      "tags": {
+        "highway": "residential",
+        "name": "Baburao Tangewale Path",
+        "name:mr": "बाबुराव टांगेवाले पथ"
+      }
+    },
+    {
+      "type": "way",
+      "id": 264444889,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 264444892,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 264444896,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 264444901,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 264444904,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 275490294,
+      "tags": {
+        "highway": "residential",
+        "name": "J. P. Trivedi Path",
+        "name:mr": "जे. पी. त्रिवेदी पथ",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 275490298,
+      "tags": {
+        "highway": "primary_link",
+        "lanes": "2",
+        "lit": "yes",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 279548177,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 281308015,
+      "tags": {
+        "alt_name": "Ferguson College Road",
+        "alt_name:mr": "फर्ग्युसन कॉलेज रस्ता",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "name": "Gopal Krushna Gokhale Path",
+        "name:etymology:wikidata": "Q313299",
+        "name:mr": "गोपाळ कृष्ण गोखले पथ",
+        "oneway": "yes",
+        "ref": "SH60",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 281308016,
+      "tags": {
+        "alt_name": "JM Road",
+        "highway": "primary",
+        "lanes": "3",
+        "lit": "yes",
+        "name": "Jangli Maharaj Path",
+        "name:etymology:wikidata": "Q6153993",
+        "name:mr": "जंगली महाराज पथ",
+        "oneway": "yes",
+        "ref": "SH60",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 281308018,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 281308021,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 281308023,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 281308027,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 281308030,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 281308031,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 281308035,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 281308039,
+      "tags": {
+        "access": "private",
+        "highway": "service",
+        "service": "driveway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 282102091,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 282102094,
+      "tags": {
+        "highway": "residential",
+        "name": "Keshav Ramchandra Kanitkar Path",
+        "name:mr": "केशव रामचंद्र कानिटकर पथ"
+      }
+    },
+    {
+      "type": "way",
+      "id": 283124021,
+      "tags": {
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "platform",
+        "name": "Kesariwada",
+        "name:mr": "केसरीवाडा",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 283124025,
+      "tags": {
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "platform",
+        "name": "Mati Ganapati",
+        "name:mr": "माती गणपती",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 290390065,
+      "tags": {
+        "highway": "residential",
+        "name": "Dhondiba Gunaji Bane Path",
+        "name:mr": "धोंडीबा गुणाजी बने पथ"
+      }
+    },
+    {
+      "type": "way",
+      "id": 290403536,
+      "tags": {
+        "access": "permissive",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 290403543,
+      "tags": {
+        "access": "permissive",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 297855404,
+      "tags": {
+        "alt_name": "Balagandharva Bridge",
+        "alt_name:mr": "बालगंधर्व पूल",
+        "highway": "secondary_link",
+        "name": "Maharshi Vitthal Ramji Shinde Bridge",
+        "name:etymology:wikidata": "Q7937284",
+        "name:mr": "महर्षी विठ्ठल रामजी शिंदे पूल",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 297855405,
+      "tags": {
+        "alt_name": "Balagandharva Bridge",
+        "alt_name:mr": "बालगंधर्व पूल",
+        "highway": "tertiary_link",
+        "name": "Maharshi Vitthal Ramji Shinde Bridge",
+        "name:etymology:wikidata": "Q7937284",
+        "name:mr": "महर्षी विठ्ठल रामजी शिंदे पूल",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 297855406,
+      "tags": {
+        "alt_name": "Balagandharva Bridge",
+        "alt_name:mr": "बालगंधर्व पूल",
+        "highway": "secondary_link",
+        "name": "Maharshi Vitthal Ramji Shinde Bridge",
+        "name:etymology:wikidata": "Q7937284",
+        "name:mr": "महर्षी विठ्ठल रामजी शिंदे पूल",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 297855407,
+      "tags": {
+        "highway": "residential",
+        "name": "Omkareshwar Path",
+        "name:mr": "ॐकारेश्वर पथ",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 297855408,
+      "tags": {
+        "highway": "residential",
+        "name": "Omkareshwar Path",
+        "name:mr": "ॐकारेश्वर पथ",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 297855410,
+      "tags": {
+        "highway": "residential",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 297855411,
+      "tags": {
+        "highway": "residential",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 297855413,
+      "tags": {
+        "highway": "tertiary",
+        "name": "T Saheb KK Marg",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 297855414,
+      "tags": {
+        "highway": "tertiary",
+        "name": "T Saheb KK Marg",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 311629552,
+      "tags": {
+        "highway": "primary",
+        "name": "Narubhau Limaye Path",
+        "name:mr": "नरुभाऊ लिमये पथ",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 327073022,
+      "tags": {
+        "alt_name": "Ferguson College Road",
+        "alt_name:mr": "फर्ग्युसन कॉलेज रस्ता",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "name": "Gopal Krushna Gokhale Path",
+        "name:etymology:wikidata": "Q313299",
+        "name:mr": "गोपाळ कृष्ण गोखले पथ",
+        "oneway": "yes",
+        "ref": "SH60",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 327073023,
+      "tags": {
+        "alt_name": "Ferguson College Road",
+        "alt_name:mr": "फर्ग्युसन कॉलेज रस्ता",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "name": "Gopal Krushna Gokhale Path",
+        "name:etymology:wikidata": "Q313299",
+        "name:mr": "गोपाळ कृष्ण गोखले पथ",
+        "oneway": "yes",
+        "ref": "SH60",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 380417671,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 436385624,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 436385625,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 460753769,
+      "tags": {
+        "highway": "residential",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 477069932,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 477069939,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 652398178,
+      "tags": {
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "40",
+        "name": "Chaturshringi Road",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 667524678,
+      "tags": {
+        "highway": "residential",
+        "name": "Off FC Road"
+      }
+    },
+    {
+      "type": "way",
+      "id": 667524680,
+      "tags": {
+        "highway": "tertiary",
+        "maxspeed": "40",
+        "name": "Ghole Road",
+        "name:mr": "घोले पथ",
+        "oneway": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 667524681,
+      "tags": {
+        "alt_name": "JM Road",
+        "highway": "primary",
+        "lanes": "4",
+        "name": "Jangli Maharaj Path",
+        "name:etymology:wikidata": "Q6153993",
+        "name:mr": "जंगली महाराज पथ",
+        "oneway": "yes",
+        "ref": "SH60",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 669739321,
+      "tags": {
+        "highway": "steps",
+        "incline": "up",
+        "step_count": "6"
+      }
+    },
+    {
+      "type": "way",
+      "id": 669739323,
+      "tags": {
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 669739324,
+      "tags": {
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 669739326,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 689828945,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 750336639,
+      "tags": {
+        "highway": "tertiary",
+        "maxspeed": "40",
+        "name": "Ghole Road",
+        "oneway": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 750336640,
+      "tags": {
+        "highway": "tertiary",
+        "maxspeed": "40",
+        "name": "Ghole Road",
+        "name:mr": "घोले पथ",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 750616736,
+      "tags": {
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Congress Bhavan Path",
+        "name:mr": "कॉंग्रेस भवन पथ",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 814906035,
+      "tags": {
+        "highway": "residential",
+        "lanes": "1",
+        "layer": "-1",
+        "name": "Deccan PMPML Bus Stand Road",
+        "oneway": "yes",
+        "wikidata": "Q7260109",
+        "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 814906036,
+      "tags": {
+        "highway": "residential",
+        "name": "Deccan Bus Stop Lane 1",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 814906037,
+      "tags": {
+        "highway": "residential",
+        "lanes": "1",
+        "layer": "-1",
+        "name": "Deccan Bus Stop Lane 2",
+        "oneway": "yes",
+        "tunnel": "building_passage"
+      }
+    },
+    {
+      "type": "way",
+      "id": 814906038,
+      "tags": {
+        "highway": "residential",
+        "lanes": "1",
+        "layer": "-1",
+        "name": "Deccan Bus Stop Lane 5",
+        "oneway": "yes",
+        "tunnel": "building_passage",
+        "wikidata": "Q7260109",
+        "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 814906039,
+      "tags": {
+        "highway": "residential",
+        "name": "Deccan PMPML Bus Stand Road",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 814906040,
+      "tags": {
+        "highway": "residential",
+        "lanes": "1",
+        "layer": "-1",
+        "name": "Deccan Bus Stop Lane 3",
+        "oneway": "yes",
+        "tunnel": "building_passage",
+        "wikidata": "Q7260109",
+        "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 814906041,
+      "tags": {
+        "highway": "residential",
+        "lanes": "1",
+        "layer": "-1",
+        "name": "Deccan Bus Stop Lane 4",
+        "oneway": "yes",
+        "tunnel": "building_passage",
+        "wikidata": "Q7260109",
+        "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 817794776,
+      "tags": {
+        "highway": "tertiary",
+        "name": "Riverside Road",
+        "oneway": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 817794777,
+      "tags": {
+        "highway": "tertiary",
+        "name": "Jagannath Kaniram Kasat Path",
+        "name:mr": "जगन्नाथ कनिराम कासट पथ"
+      }
+    },
+    {
+      "type": "way",
+      "id": 817794778,
+      "tags": {
+        "highway": "residential",
+        "name": "Riverside Road",
+        "oneway": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 823071265,
+      "tags": {
+        "alt_name": "FC Road",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "name": "Gopal Krushna Gokhale Path",
+        "name:etymology:wikidata": "Q313299",
+        "name:mr": "गोपाळ कृष्ण गोखले पथ",
+        "oneway": "yes",
+        "ref": "SH60",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 855244788,
+      "tags": {
+        "access": "private",
+        "highway": "service",
+        "source": "maxar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 855328746,
+      "tags": {
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Congress Bhavan Path",
+        "name:mr": "कॉंग्रेस भवन पथ",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1063481201,
+      "tags": {
+        "highway": "residential",
+        "name": "J. P. Trivedi Path",
+        "name:mr": "जे. पी. त्रिवेदी पथ",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1063481202,
+      "tags": {
+        "highway": "residential",
+        "name": "J. P. Trivedi Path",
+        "name:mr": "जे. पी. त्रिवेदी पथ",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1063567082,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1098584798,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117566214,
+      "tags": {
+        "highway": "residential",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117971026,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117971027,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117971028,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117971029,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117971030,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117971031,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117971032,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117971033,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117971034,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117971035,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117971036,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117971037,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117971038,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117971039,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117971040,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117971041,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117971042,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117971043,
+      "tags": {
+        "access": "private",
+        "highway": "service",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117971044,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117971045,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117971046,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117971182,
+      "tags": {
+        "bicycle": "no",
+        "highway": "service",
+        "motor_vehicle": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117972078,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117972079,
+      "tags": {
+        "highway": "residential",
+        "name": "Aravind Ranade Path",
+        "name:mr": "अरविंद रानडे पथ",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117972080,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117972081,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117972082,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117972083,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117972084,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117972085,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117972086,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117972087,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117972088,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117972089,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117972090,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117972091,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117972092,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117972093,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117972094,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117972095,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117972096,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117972097,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117972098,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117972099,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117972709,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117972710,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117972711,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117972712,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117972713,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117975146,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117975147,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117975148,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117975151,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117975152,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117975153,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117976360,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117976361,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117976362,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117976363,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117976364,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117976365,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117976366,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117976367,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117976368,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117976369,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117976370,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117976371,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117976372,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117976373,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117976374,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117976375,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117976376,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117976742,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117976743,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117976744,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117976745,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117976746,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117976747,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117976748,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117976749,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117977228,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117977229,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117977230,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117977231,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117977233,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117977234,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117977235,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117977236,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117977237,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117980497,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117980498,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117980499,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117980500,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117980501,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117980502,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117980505,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117980506,
+      "tags": {
+        "access": "permissive",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117980507,
+      "tags": {
+        "access": "permissive",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117980508,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117980509,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117982238,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117982241,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117982242,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117982243,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117982244,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117982245,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117983199,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117983200,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117983201,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117983202,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117983203,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117983204,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117983205,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1118002082,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1118002083,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1118002084,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1118007539,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1118007540,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1118007541,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1118007542,
+      "tags": {
+        "highway": "living_street"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1118007543,
+      "tags": {
+        "highway": "living_street"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1118011702,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1118510411,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1118581207,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1118587477,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1118813088,
+      "tags": {
+        "alt_name": "JM Road",
+        "highway": "primary",
+        "lanes": "4",
+        "name": "Jangli Maharaj Path",
+        "name:etymology:wikidata": "Q6153993",
+        "name:mr": "जंगली महाराज पथ",
+        "oneway": "yes",
+        "ref": "SH60",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1125443419,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1126679747,
+      "tags": {
+        "highway": "tertiary",
+        "lanes": "2",
+        "name": "Madhavrao Shirole Path",
+        "name:mr": "माधवराव शिरोळे पथ",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1152858271,
+      "tags": {
+        "highway": "track"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1160407187,
+      "tags": {
+        "highway": "tertiary",
+        "name": "Bhandarkar Path",
+        "name:etymology:wikidata": "Q2623927",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1160407188,
+      "tags": {
+        "highway": "tertiary",
+        "name": "Bhandarkar Path",
+        "name:etymology:wikidata": "Q2623927",
+        "name:mr": "भांडारकर पथ",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1161236789,
+      "tags": {
+        "highway": "tertiary",
+        "name": "Jagannath Kaniram Kasat Path",
+        "name:mr": "जगन्नाथ कनिराम कासट पथ"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1161246301,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1161246302,
+      "tags": {
+        "highway": "tertiary"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1161246303,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1181736152,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1181738078,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1182154037,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1182164315,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1182164666,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1182164882,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1183364636,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1183364637,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1185666503,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1185672429,
+      "tags": {
+        "access": "private",
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1207082944,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1222200109,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234792043,
+      "tags": {
+        "crossing": "marked",
+        "crossing:markings": "yes",
+        "footway": "crossing",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234792044,
+      "tags": {
+        "footway": "sidewalk",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234792045,
+      "tags": {
+        "footway": "sidewalk",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234792046,
+      "tags": {
+        "footway": "sidewalk",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234792047,
+      "tags": {
+        "footway": "sidewalk",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234792048,
+      "tags": {
+        "crossing": "marked",
+        "crossing:markings": "yes",
+        "footway": "crossing",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234792049,
+      "tags": {
+        "footway": "sidewalk",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234792050,
+      "tags": {
+        "crossing": "marked",
+        "crossing:markings": "yes",
+        "footway": "crossing",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234792051,
+      "tags": {
+        "crossing": "marked",
+        "crossing:markings": "yes",
+        "footway": "crossing",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234792052,
+      "tags": {
+        "crossing": "marked",
+        "crossing:markings": "yes",
+        "footway": "crossing",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234793254,
+      "tags": {
+        "footway": "sidewalk",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234793255,
+      "tags": {
+        "footway": "sidewalk",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234793256,
+      "tags": {
+        "crossing": "marked",
+        "crossing:markings": "yes",
+        "footway": "crossing",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234793257,
+      "tags": {
+        "footway": "sidewalk",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234793258,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234793259,
+      "tags": {
+        "footway": "sidewalk",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234793260,
+      "tags": {
+        "crossing": "marked",
+        "crossing:markings": "yes",
+        "footway": "crossing",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234793261,
+      "tags": {
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234793262,
+      "tags": {
+        "crossing": "marked",
+        "crossing:markings": "yes",
+        "footway": "crossing",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234793263,
+      "tags": {
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234793264,
+      "tags": {
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234793265,
+      "tags": {
+        "footway": "sidewalk",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234808366,
+      "tags": {
+        "highway": "footway",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234808367,
+      "tags": {
+        "highway": "footway",
+        "layer": "-1",
+        "surface": "asphalt",
+        "tunnel": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234811636,
+      "tags": {
+        "footway": "sidewalk",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234811637,
+      "tags": {
+        "footway": "sidewalk",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234811638,
+      "tags": {
+        "footway": "sidewalk",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234811640,
+      "tags": {
+        "crossing": "marked",
+        "crossing:markings": "yes",
+        "footway": "crossing",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234811641,
+      "tags": {
+        "crossing": "marked",
+        "crossing:markings": "yes",
+        "footway": "crossing",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234811642,
+      "tags": {
+        "footway": "sidewalk",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234811643,
+      "tags": {
+        "footway": "sidewalk",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234811644,
+      "tags": {
+        "footway": "sidewalk",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234811645,
+      "tags": {
+        "footway": "sidewalk",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234811646,
+      "tags": {
+        "crossing": "marked",
+        "crossing:markings": "yes",
+        "footway": "crossing",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234811647,
+      "tags": {
+        "footway": "sidewalk",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234811648,
+      "tags": {
+        "footway": "sidewalk",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234811649,
+      "tags": {
+        "crossing": "marked",
+        "crossing:markings": "yes",
+        "footway": "crossing",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234811650,
+      "tags": {
+        "footway": "sidewalk",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234811651,
+      "tags": {
+        "footway": "sidewalk",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234811652,
+      "tags": {
+        "crossing": "marked",
+        "crossing:markings": "yes",
+        "footway": "crossing",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234811653,
+      "tags": {
+        "footway": "sidewalk",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234811825,
+      "tags": {
+        "crossing": "marked",
+        "crossing:markings": "yes",
+        "footway": "crossing",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234813160,
+      "tags": {
+        "footway": "sidewalk",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234813161,
+      "tags": {
+        "footway": "sidewalk",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234813163,
+      "tags": {
+        "crossing": "marked",
+        "crossing:markings": "yes",
+        "footway": "crossing",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234813164,
+      "tags": {
+        "footway": "sidewalk",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234813165,
+      "tags": {
+        "footway": "sidewalk",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234813166,
+      "tags": {
+        "crossing": "marked",
+        "crossing:markings": "yes",
+        "footway": "crossing",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234813168,
+      "tags": {
+        "footway": "sidewalk",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234813169,
+      "tags": {
+        "crossing": "marked",
+        "crossing:markings": "yes",
+        "footway": "crossing",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234813170,
+      "tags": {
+        "footway": "sidewalk",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234843416,
+      "tags": {
+        "crossing": "marked",
+        "crossing:markings": "yes",
+        "footway": "crossing",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234843417,
+      "tags": {
+        "footway": "sidewalk",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1234849941,
+      "tags": {
+        "footway": "sidewalk",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1319854405,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1319855013,
+      "tags": {
+        "highway": "service"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1342444763,
+      "tags": {
+        "alt_name": "Ferguson College Road",
+        "alt_name:mr": "फर्ग्युसन कॉलेज रस्ता",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "name": "Gopal Krushna Gokhale Path",
+        "name:etymology:wikidata": "Q313299",
+        "name:mr": "गोपाळ कृष्ण गोखले पथ",
+        "oneway": "yes",
+        "ref": "SH60",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1348639839,
+      "tags": {
+        "highway": "service",
+        "service": "driveway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1348643827,
+      "tags": {
+        "access": "private",
+        "highway": "service",
+        "service": "driveway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1348643828,
+      "tags": {
+        "highway": "steps"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1372356980,
+      "tags": {
+        "highway": "residential",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1372356981,
+      "tags": {
+        "highway": "residential",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1373579430,
+      "tags": {
+        "highway": "tertiary",
+        "maxspeed": "40",
+        "name": "Ghole Road",
+        "name:mr": "घोले पथ",
+        "oneway": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1432706182,
+      "tags": {
+        "bridge": "yes",
+        "highway": "pedestrian",
+        "layer": "1"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1432706184,
+      "tags": {
+        "bridge": "yes",
+        "highway": "pedestrian",
+        "layer": "1"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1461180121,
+      "tags": {
+        "bridge": "yes",
+        "highway": "footway",
+        "layer": "2",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1461180122,
+      "tags": {
+        "conveying": "forward",
+        "covered": "yes",
+        "highway": "steps",
+        "incline": "up",
+        "level": "0;2"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1461180123,
+      "tags": {
+        "covered": "yes",
+        "highway": "steps",
+        "level": "0;2"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1461180124,
+      "tags": {
+        "bridge": "yes",
+        "highway": "footway",
+        "layer": "2",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1461180130,
+      "tags": {
+        "conveying": "forward",
+        "covered": "yes",
+        "highway": "steps",
+        "incline": "up",
+        "level": "0;2"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1461180131,
+      "tags": {
+        "covered": "yes",
+        "highway": "steps",
+        "level": "0;1"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1461180132,
+      "tags": {
+        "bridge": "yes",
+        "highway": "footway",
+        "layer": "2",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1461223223,
+      "tags": {
+        "footway": "sidewalk",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1461223224,
+      "tags": {
+        "footway": "sidewalk",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1461223225,
+      "tags": {
+        "footway": "sidewalk",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1461223226,
+      "tags": {
+        "footway": "sidewalk",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1461223227,
+      "tags": {
+        "footway": "sidewalk",
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1479314587,
+      "tags": {
+        "bridge": "yes",
+        "covered": "yes",
+        "handrail": "yes",
+        "highway": "steps",
+        "incline": "up",
+        "layer": "1",
+        "ramp": "yes",
+        "ramp:wheelchair": "yes",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1479314588,
+      "tags": {
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1479314589,
+      "tags": {
+        "highway": "footway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1479314592,
+      "tags": {
+        "bridge": "yes",
+        "highway": "footway",
+        "layer": "1"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1512528404,
+      "tags": {
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1533869165,
+      "tags": {
+        "highway": "tertiary",
+        "maxspeed": "40",
+        "name": "Ghole Road",
+        "oneway": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1533869166,
+      "tags": {
+        "highway": "residential",
+        "name": "Vasantrao Deshmukh Path",
+        "name:mr": "वसंतराव देशमुख पथ"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1533869167,
+      "tags": {
+        "highway": "tertiary",
+        "maxspeed": "40",
+        "name": "Ghole Road",
+        "oneway": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1565822270,
+      "tags": {
+        "access": "private",
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1565822271,
+      "tags": {
+        "access": "private",
+        "highway": "residential"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1570313653,
+      "tags": {
+        "highway": "tertiary",
+        "name": "Bhandarkar Path",
+        "name:etymology:wikidata": "Q2623927",
+        "name:mr": "भांडारकर पथ",
+        "oneway": "no",
+        "surface": "asphalt"
+      }
+    }
+  ]
+}

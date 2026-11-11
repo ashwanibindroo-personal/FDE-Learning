@@ -1,6 +1,7 @@
-# print(f"roads.py says: __name__ = {__name__}")
-
 import json
+import logging
+
+logger = logging.getLogger(__name__)
 
 # Load the list of roads from a JSON file
 def load_roads(path):
@@ -8,12 +9,14 @@ def load_roads(path):
         with open(path) as file:
             data = json.load(file)
     except FileNotFoundError:
-        print("Could not find the file. Check the path and run from the repo root")
+        logger.error("Could not find the file: %s. Check the path and run from the repo root", path)
         raise SystemExit(1)
     except json.JSONDecodeError:
-        print("Source json file is broken")
+        logger.error("Source json file is broken")
         raise SystemExit(1)
-    return data["elements"]
+    elements = data["elements"]
+    logger.info("Loaded %s roads from %s", len(elements), path)
+    return elements
 
 
 # Define a funtion "summarize_roads" and initiate empty dictionay
@@ -31,6 +34,7 @@ def summarize_roads(roads):
         # Guard clause
         if "tags" not in road:
             skipped_roads = skipped_roads + 1
+            logger.warning("Skipped road id %s: no tags", road.get("id"))
             continue
             
         road_type = road["tags"]["highway"]

@@ -14,8 +14,8 @@ def load_roads(path):
     return data["elements"]
 
 
-# Define a funtion "summarize_roads" and initiate empty dictionaries
-# for type counts and a counter at 0 for unnamed roads
+# Define a funtion "summarize_roads" and initiate empty dictionay
+# for type counts and counters at 0 for unnamed and skipped roads
 def summarize_roads(roads):
     highway_types = {}
     unnamed_roads = 0

@@ -6,7 +6,7 @@ logger = logging.getLogger(__name__)
 # 2. Define a function which does the following:
 def longest_name(roads):
     # a. Within the function, define a variable to store the longest name as text. Start with None
-    long_name = None
+    long_name = None 
     # b. Inside the loop, identify the roads with no "tags" and use "continue" to keep the program running and log WARNING
     for road in roads:
         if "tags" not in road:

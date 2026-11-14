@@ -57,18 +57,18 @@ def double_return(number):
 # w = double_print(3) + 1
 
 # write a function that returns the count of words
-# def count_words(sentence):
-#     # split the sentence
-#     words = sentence.split()
-#     # Add a counter
-#     word_count = 0
-#     # write a for loop which counts the words in the sentence
-#     for word in words:
-#         word_count = word_count + 1
-#     return word_count
+def count_words(sentence):
+    # split the sentence
+    words = sentence.split()
+    # Add a counter
+    word_count = 0
+    # write a for loop which counts the words in the sentence
+    for word in words:
+        word_count = word_count + 1
+    return word_count
 
-# total = count_words("the road near the river")
-# print(total)
+total = count_words("the road near the river")
+print(total)
 
 # variation of the above code
 # def count_words(sentence):
